@@ -1,4 +1,4 @@
-# Python Project
+
 ## English-Dictionery-app
  ### Steps......
  1 - The first step, the JSON file will be loaded into python. \
