@@ -1,9 +1,5 @@
 # Python Project
 ## English-Dictionery-app
- 
- # Python Project
-## English-Dictionery-app
- 
  ### Steps......
  1 - The first step, the JSON file will be loaded into python. \
  2 - Get user input \
